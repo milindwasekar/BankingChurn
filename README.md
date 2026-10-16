@@ -1,4 +1,4 @@
-# BankingChurn
+# Banking Churn
 
 Churn Analysis:
 Analyse the data and bring out few insights on the customer Churn.
